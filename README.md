@@ -1,9 +1,9 @@
 # Predicting Telco customer churn.
 
-## Introduction:
+## Introduction: THIS PROJECT IS STILL IN PROGRESS .THANKS!
 
 ## Project  Goals
-- 
+- The ultimate goal of this project is to identify the no of customer churn in this Telecomunication.
 
 
 # Process
