@@ -26,17 +26,20 @@ Step 3: Exploratory data analysis and pre-processing
 - Split the into training and testing for appropriate training .
 - Scale the data 
 
-Step 4: LogisticRegression:
-- 
-- 
-- 
+step 4a: Working with Demographic features
+b: Service features
+c: Account information.
+step 5: preprocessing 
+
+Step 6: Building the models
+A: Logistic Regression
 - 
 - 
 
-step 5: Random Forest Classifier.
+B: Random Forest Classifier.
 - .
 
-step 6: .
+C: . Decision Tree classifier
 
 
 
