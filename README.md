@@ -30,6 +30,7 @@ step 4a: Working with Demographic features
 b: Service features
 c: Account information.
 step 5: Preprocessing 
+Encoding
 
 Step 6: Building the models
 A: Logistic Regression
