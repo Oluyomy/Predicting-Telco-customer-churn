@@ -29,6 +29,7 @@ Step 3: Exploratory data analysis and pre-processing
 step 4a: Working with Demographic features
 b: Service features
 c: Account information.
+
 step 5: Preprocessing 
 Encoding
 
