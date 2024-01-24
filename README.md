@@ -35,18 +35,15 @@ Encoding
 
 Step 6: Building the models
 A: Logistic Regression
-- 
-- 
 
 B: Random Forest Classifier.
-- .
 
-C: . Decision Tree classifier
+C: Decision Tree classifier
 
-
+D: Support Vector Classifier
 
 ## Results
-- 
+- Based on these metrics, Logistic regression model has the highest accuracy and generally better precision, recall, and F1-score for both classes compared to the other models. Therefore, LogisticRegression appears to be the best-performing model among the four models.
 ## conclusion
  
  ## Challenges
