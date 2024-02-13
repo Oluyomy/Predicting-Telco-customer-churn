@@ -34,6 +34,7 @@ step 5: Preprocessing
 Encoding
 
 Step 6: Building the models
+
 A: Logistic Regression
 
 B: Random Forest Classifier.
